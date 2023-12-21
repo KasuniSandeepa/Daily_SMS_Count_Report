@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Modle/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/commons-fileupload-1.4-bin/commons-fileupload-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/commons-fileupload-1.4-bin/commons-fileupload-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/commons-fileupload-1.4-bin/commons-fileupload-1.4-tests.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/commons-fileupload-1.4-bin/commons-fileupload-1.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/gson/jar_files/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/Jar files/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/D/Coding Projects/jAR/poi-ooxml-schemas-3.17 (1).jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

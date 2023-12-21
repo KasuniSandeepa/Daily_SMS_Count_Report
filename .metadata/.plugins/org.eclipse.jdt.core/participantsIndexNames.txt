@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\D\Coding Projects\Eclipse Workspace\Dialy_SMS_Count_Report\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1955667024.index
+\Daily_SMS_Report\src
+D:\D\Coding Projects\Eclipse Workspace\Dialy_SMS_Count_Report\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1239320166.index
+\Daily_SMS_Report\src

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\D\Coding Projects\Eclipse Workspace\Dialy_SMS_Count_Report\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2638766933.index
+1238563606.index
+237074400.index
+1851563632.index
+4068910889.index
+1955667024.index
+2133162082.index
